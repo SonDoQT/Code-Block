@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1684579493 source:e:\code blocks\my first project\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1684579470 source:e:\code blocks\my first project\bai1.c
+	<stdio.h>
+
